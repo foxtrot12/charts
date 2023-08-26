@@ -1,0 +1,298 @@
+{
+
+  "data": [
+
+    { "label": "cat1", "value": 44 },
+
+    { "label": "cat2", "value": 55 },
+
+    { "label": "cat3", "value": 41 },
+
+    { "label": "cat4", "value": 67 }
+
+  ],
+
+  "tabledata": [
+
+    { "id": 1, "name": "John", "age": 25, "country": "USA" },
+
+    { "id": 2, "name": "Jane", "age": 30, "country": "Canada" },
+
+    { "id": 3, "name": "Doe", "age": 28, "country": "UK" }
+
+  ],
+
+  "lineseries": [
+
+    {
+
+      "name": "Series A",
+
+      "data": [30, 40, 35, 50, 49, 60, 70]
+
+    },
+
+    {
+
+      "name": "Series B",
+
+      "data": [23, 35, 27, 42, 22, 37, 40]
+
+    },
+
+    {
+
+      "name": "Series C",
+
+      "data": [45, 32, 50, 18, 36, 60, 30]
+
+    },
+
+    {
+
+      "name": "Series D",
+
+      "data": [60, 20, 10, 45, 70, 25, 38]
+
+    }
+
+  ],
+
+  "lineseries1": [
+
+    {
+
+      "name": "Series A",
+
+      "data": [30, 40, 35, 50, 49, 60, 70]
+
+    }
+
+  ],
+
+  "pieseries": [40, 50],
+
+ 
+
+  "data1":[
+
+      {"label":"subcat1","value":1},
+
+      {"label":"subcat2","value":4},
+
+      {"label":"subcat3","value":1},
+
+      {"label":"subcat4","value":4},
+
+      {"label":"subcat5","value":3}
+
+  
+
+  ],
+
+ 
+
+  "data2":[
+
+      {"label":"product1","value":1},
+
+      {"label":"product2","value":4},
+
+      {"label":"product3","value":1},
+
+      {"label":"product4","value":4},
+
+      {"label":"product5","value":3},
+
+      {"label":"product6","value":5}
+
+
+  ],
+
+    "heatmap": [
+
+      {
+
+        "name": "Category A",
+
+        "data": [30, 20, 45, 15, 50]
+
+      },
+
+      {
+
+        "name": "Category B",
+
+        "data": [10, 25, 40, 5, 30]
+
+      },
+
+      {
+
+        "name": "Category C",
+
+        "data": [10, 25, 40, 5, 30]
+
+      },
+
+      {
+
+        "name": "Category D",
+
+        "data": [10, 25, 40, 5, 30]
+
+      },
+
+      {
+
+        "name": "Category E",
+
+        "data": [10, 25, 40, 5, 30]
+
+      }
+
+    ],
+
+    "yearlyCosts": [
+      { "year": 2025, "cost": 160000 },
+      { "year": 2026, "cost": 175000 },
+      { "year": 2027, "cost": 190000 },
+      { "year": 2028, "cost": 205000 },
+      { "year": 2029, "cost": 220000 },
+      { "year": 2030, "cost": 235000 }
+     
+    ],
+    "monthlyCosts": [
+      { "month": "Jan", "cost": 10000 },
+      { "month": "Feb", "cost": 12000 },
+      { "month": "Mar", "cost": 11000 },
+      { "month": "Apr", "cost": 13000 },
+      { "month": "May", "cost": 14000 },
+      { "month": "Jun", "cost": 15000 }
+      
+    ],
+    "dailyCosts": [
+      { "day": "2023-01-01", "cost": 500 },
+      { "day": "2023-01-02", "cost": 600 },
+      { "day": "2023-01-03", "cost": 550 },
+      { "day": "2023-01-04", "cost": 600 },
+      { "day": "2023-01-05", "cost": 620 },
+      { "day": "2023-01-06", "cost": 580 }
+      
+    ],
+
+    "chartData": [
+
+      { "category": "Category 1", "value": 40 },
+  
+      { "category": "Category 2", "value": 55 },
+  
+      { "category": "Category 3", "value": 41 },
+  
+      { "category": "Category 4", "value": 64 },
+  
+      { "category": "Category 5", "value": 22 }
+  
+    ],
+
+    "yearlyCost": [
+      {
+        "year": 2023,
+        "y": 1000,
+        "months": [
+          {
+            "month": 1,
+            "y": 150,
+            "days": [
+              { "x": 1, "y": 10 },
+              { "x": 2, "y": 15 },
+              { "x": 3, "y": 12 },
+              { "x": 4, "y": 18 },
+              { "x": 5, "y": 20 },
+              { "x": 6, "y": 14 },
+              { "x": 7, "y": 11 },
+              { "x": 8, "y": 20 }
+            ]
+          },
+          {
+            "month": 2,
+            "y": 160,
+            "days": [
+              { "x": 1, "y": 11 },
+              { "x": 2, "y": 16 },
+              { "x": 3, "y": 14 },
+              { "x": 4, "y": 20 },
+              { "x": 5, "y": 22 },
+              { "x": 6, "y": 15 },
+              { "x": 7, "y": 12 },
+              { "x": 8, "y": 19 }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "year": 2024,
+        "y": 1200,
+        "months": [
+          {
+            "month": 1,
+            "y": 170,
+            "days": [
+              { "x": 1, "y": 10 },
+  { "x": 2, "y": 22 },
+  { "x": 3, "y": 15 },
+  { "x": 4, "y": 8 },
+  { "x": 5, "y": 17 },
+  { "x": 6, "y": 29 },
+  { "x": 7, "y": 12 },
+  { "x": 8, "y": 18 },
+  { "x": 9, "y": 25 },
+  { "x": 10, "y": 5 },
+  { "x": 11, "y": 14 },
+  { "x": 12, "y": 19 },
+  { "x": 13, "y": 7 },
+  { "x": 14, "y": 30 },
+  { "x": 15, "y": 9 },
+  { "x": 16, "y": 23 },
+  { "x": 17, "y": 11 },
+  { "x": 18, "y": 16 },
+  { "x": 19, "y": 28 },
+  { "x": 20, "y": 6 },
+  { "x": 21, "y": 21 },
+  { "x": 22, "y": 3 },
+  { "x": 23, "y": 13 },
+  { "x": 24, "y": 27 },
+  { "x": 25, "y": 4 },
+  { "x": 26, "y": 20 },
+  { "x": 27, "y": 26 },
+  { "x": 28, "y": 2 },
+  { "x": 29, "y": 24 },
+  { "x": 30, "y": 1 }
+            ]
+          },
+          {
+            "month": 2,
+            "y": 180,
+            "days": [
+              { "x": 1, "y": 13 },
+              { "x": 2, "y": 18 },
+              { "x": 3, "y": 16 },
+              { "x": 4, "y": 24 },
+              { "x": 5, "y": 26 },
+              { "x": 6, "y": 17 },
+              { "x": 7, "y": 14 },
+              { "x": 8, "y": 21 }
+            ]
+          }
+         
+        ]
+      }
+      
+    ]
+
+ 
+
+ 
+
+}
